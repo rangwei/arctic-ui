@@ -1,0 +1,8 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "arctic-ui",
+    "namespace": "com.myorg",
+    "viewtype": "XML",
+    "viewname": "MainView"
+  }
+}
